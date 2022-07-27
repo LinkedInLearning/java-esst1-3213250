@@ -23,7 +23,7 @@ Alle Inhalte sind direkt im `main`-Branch abgelegt.
 
 **Kevin Wittek**
 
-Engineering Manager, Coach & Trainer_
+Engineering Manager, Coach & Trainer.
 
 Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/instructors/kevin-wittek) auf LinkedIn Learning. Folgen Sie ihm auf [LinkedIn](https://www.linkedin.com/in/kevin-wittek?trk=lil_instructor) und [Twitter](https://twitter.com/kiview).
 
