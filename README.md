@@ -2,7 +2,7 @@
 
 Dies ist das Repository für den **LinkedIn Learning** Kurs `Java Grundkurs`. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/61017085/196431197-7866d135-579a-4b26-82e0-c94879913753.png) 
+![COURSENAME][lil-thumbnail-url] 
 
 Möchten Sie den Einstieg in die Programmierung und Softwareentwicklung wagen? Java – eine der weltweit etabliertesten Programmiersprachen mit vielfältigen Einsatzmöglichkeiten im professionellen Umfeld – ist dafür bestens geeignet. Java-Experte Kevin Wittek bringt Ihnen im ersten Teil seiner Kursreihe die wichtigsten Programmierkonzepte wie zum Beispiel Variablen, Schleifen, Arrays und Funktionen nahe, und Sie sehen, wie diese innerhalb von Java verwendet zum Einsatz kommen. Auch neuere Sprach-Features wie lokale Typinferenz und Switch-Expressions spielen eine Rolle. Sie lernen und üben das Ganze in der professionellen und modernen Entwicklungsumgebung IntelliJ IDEA, die sich in den letzten Jahren als Industriestandard etabliert hat. Mit der Hilfe von zahlreichen Challenges/Solutions-Einheiten können Sie Ihr Wissen immer wieder testen und anschließend Ihre Lösung mit der ihres Trainers vergleichen.
 
@@ -29,3 +29,4 @@ Sie finden [weitere Kurse von Kevin Wittek](https://www.linkedin.com/learning/in
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/java-grundkurs-1-sprachkonzepte-und-programmiergrundlagen
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3213250/3213250-1665574983302-16x9.jpg
